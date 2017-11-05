@@ -1,18 +1,49 @@
-html{
-
-}
 
 body{
 	display: flex;
+	background-color: blue;
 }
 
 header{
+	background-color: purple;
 	display: flex;
 	align-content: center;
 }
 
+img{
+	height: 100%;
+	width: 100S%;
+}
+
+section{
+	background-color: blue;
+	padding: 0%;
+	width: 50%:
+	height:50%; 
+
+}
+
+p{	
+	position: absolute;
+	background-color: yellowgreen;
+	font-size: 20px;
+	
+}
+
 h1{
-	display: flex;
-	align-items: center;
-	align-content: center;
+	height: 50%;
+	width: 91%;
+	margin: 41px;
+	
+}
+
+h2{
+	text-align: center;
+    position: relative;
+    top: 100%;
+    left: -40%;
+}
+img{
+	
+
 }
